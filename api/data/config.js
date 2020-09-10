@@ -1,4 +1,4 @@
-// @ts-check
+
 
 const partitionKey = process.env.partitionKey || "/category";
 
